@@ -1,2 +1,3 @@
-# calypso
-Uniform event styling for Google Calendar
+# Calypso
+
+See [`manifest.json`](manifest.json).
