@@ -2,7 +2,7 @@
   "manifest_version": 2,
   
   "name": "Calypso - Uniform event styling for Google Calendar",
-  "version": "0.2",
+  "version": "0.3",
   "description": "In Google Calendar's month view, makes all-day and multi-day events have the same styling as timed events.",
   "author": "Tomas Fiers (tomas.fiers@gmail.com)",
   "homepage_url": "https://github.com/tfiers/calypso",
